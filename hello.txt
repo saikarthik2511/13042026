@@ -1,5 +1,10 @@
 Today is Monday
 Hello
 dev
+<<<<<<< HEAD
 hi
 how are you 
+=======
+Akhil
+Joe
+>>>>>>> dhana
