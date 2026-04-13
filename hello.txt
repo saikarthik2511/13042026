@@ -1,3 +1,5 @@
 Today is Monday
 Hello
 dev
+hi
+how are you 
